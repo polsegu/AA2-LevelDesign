@@ -1,6 +1,34 @@
+# 1
+ShooterProject/Content/Assets/
+ShooterProject/Content/BigStarStation/
+ShooterProject/Content/BlinkAndDashVFX/
+ShooterProject/Content/Bunker/
+ShooterProject/Content/Cave/
+# 5
+ShooterProject/Content/CharacterBodyFX/
+ShooterProject/Content/Characters/
+ShooterProject/Content/ContentExamples/
+ShooterProject/Content/Destruction/
+ShooterProject/Content/ExampleContent/
+# 10
+ShooterProject/Content/FirstPersonArms/
+ShooterProject/Content/FPWeapon/
+ShooterProject/Content/Maps/
+ShooterProject/Content/ModularSciFiOffice/
+ShooterProject/Content/Realistic_Starter_VFX_Pack_Vol2/
+# 15
+ShooterProject/Content/ScienceLab/
+ShooterProject/Content/SpaceshipInterior/
 ShooterProject/Content/StarterContent/
-ShooterProject/Content/StarterContent/FirstPersonArms/
-ShooterProject/Content/StarterContent/FirstPerson/
+ShooterProject/Content/Textures/
+ShooterProject/Content/Underground/
+# 20
+
+
+*.zip
+
+ShooterProject/Saved/
+ShooterProject/Intermediate/
 
 # Visual Studio 2015 user specific files
 .vs/
