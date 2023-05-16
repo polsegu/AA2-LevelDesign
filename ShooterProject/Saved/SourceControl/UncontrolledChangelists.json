@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"D:/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"E:/UNIVERSITAT/2022.2023 2n quadri/Disseny-Nivells-22-23/Activitats/AA2 LevelDesign/ShooterProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
