@@ -31,6 +31,8 @@ ShooterProject/Content/___MapAssets/
 
 ShooterProject/Saved/
 ShooterProject/Intermediate/
+ShooterProject/DerivedDataCache/
+ShooterProject/Platforms/
 
 # Visual Studio 2015 user specific files
 .vs/
