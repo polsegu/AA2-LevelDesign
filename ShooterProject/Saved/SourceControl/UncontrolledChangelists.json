@@ -9,6 +9,20 @@
 				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Audio/DashSound.uasset",
 				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPerson/HUD/HUD_UI.uasset",
 				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Audio/JetpackSound.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Grapple/T_GrappleTarget.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Grapple/Textures/T_GrappleTarget.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Grapple/BluePrints/Grapple_Component.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Grapple/BluePrints/EGrappleState.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Grapple/BluePrints/GrappleTarget_Widget.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Grapple/BluePrints/BP_GrappleTarget.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Grapple/BluePrints/BP_GrappleHook.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPerson/Grapple/BluePrints/BP_GrappleLine.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/HN/DXS80BA8XW3H97MWTQXU91.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/90/IQKMAPNMGRUGGOY8BQLFGA.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/IL/KBIINQZBVSNUOEFIXM3MLD.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/MR/YBI4RBEULSUTFBUAGSAGJE.uasset",
+				"C:/Users/jlobb/Desktop/EntregaUnrealGit/LevelDesign/AA2-LevelDesign/ShooterProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XR/M47097TYMUFAQP4LZCIPVK.uasset",
 				"E:/UNIVERSITAT/2022.2023 2n quadri/Disseny-Nivells-22-23/Activitats/AA2 LevelDesign/ShooterProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
