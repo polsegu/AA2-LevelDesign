@@ -1,0 +1,14 @@
+Level design power (max 10 diapos)
+0  presentacio
+1  team
+2  introduccion y pilares del juego
+3  top down i diferents iteracions, esta es nomes visual rapida
+4  layout, explica diferents seccions del layout y del nivel, macro y micro, aqui ve la explicacio. va mostrando 
+	las diferentes secciones de cada nivel. Que diferencia hay en cada una, porque creas distintas salas.
+5  level cadence
+6  pipeline & workflow
+7  metricas
+8  player guidance, metodos usados
+9  UX rapel, crane, moving platforms, end flag...
+10  pacing del nivel con cada elemento, un excel, 
+11 postmortem 
